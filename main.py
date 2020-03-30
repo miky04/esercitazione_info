@@ -13,3 +13,15 @@ while True :
 		print ("il numero e' maggiore di {}".format(y))
 	else :
 		print ("il numero e' minore di {}".format(y))
+
+print("sei entrato in {} tentaviti".format(count))
+if count<=3 :
+	print("bravissimo!!!!!!!")
+elif count<=5 :
+	print("bravo!!!!!")
+elif count<=10 :
+	print("te la cavi!!")
+else :
+	print("sei scarso :):):):)")
+
+print("FINE")
